@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript / React**
 
-[![colombo Card](https://svg.bookmark.style/api?url=https://bookmark.style)](https://horaire-et-annuaire.fr/fiche/epicerie/16931-colombo-food-city-ivry-sur-seine.html)
-
 
 
 <h1></h1>
