@@ -19,6 +19,7 @@
 
 <h1></h1>
 
+<img src="https://raw.githubusercontent.com/GirardGH/WCS_Projet1/main/assets/img/bgTotoro.jpeg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirardGh&theme=nightowl&show_icons=true)
 
