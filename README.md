@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghislain</h1>
 <h3 align="center">A passionate fullstack developer student from France</h3>
-
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<div>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" height"200" />
+</div>
 
 - 🔭 I’m currently Studying **at the Wild Code School**
 
