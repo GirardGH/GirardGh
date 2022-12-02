@@ -34,7 +34,7 @@
 
 **My futur project... coming soon**
 
-<img src="https://raw.githubusercontent.com/GirardGH/GirardAssets/6cbe280dd71539e8d47a9dfc47d161348c968db6/assets/logoCFC.svg" alt="logo CFC" with= "100" height="100"/>
+<img src="https://raw.githubusercontent.com/GirardGH/GirardAssets/6cbe280dd71539e8d47a9dfc47d161348c968db6/assets/logoCFC.svg" alt="logo CFC" with= "100" height="100" align="center"/>
 
 <h1></h1>
 
