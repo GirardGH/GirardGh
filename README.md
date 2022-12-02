@@ -42,5 +42,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirardGh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub license (https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+[!GitHub license (https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]
 
