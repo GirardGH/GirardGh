@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirardGh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/GIRARDgh"><img src="https://api.daily.dev/devcards/b490c351fd7b4d5fa4436b11bd9a1d57.png?r=p6r" width="400" align="right alt="Ghislain Girard's Dev Card"/></a>
+<a href="https://app.daily.dev/GIRARDgh"><img src="https://api.daily.dev/devcards/b490c351fd7b4d5fa4436b11bd9a1d57.png?r=p6r" width="400" align="right" alt="Ghislain Girard's Dev Card"/></a>
 
 <h1></h1>
 
