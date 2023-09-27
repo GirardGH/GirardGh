@@ -8,7 +8,13 @@
       alt="LinkedIn"
     />
   </a>
-
+<div>
+<img  align="" 
+      src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+      width="300" 
+      height"300" 
+  />
+</div>
 
 <a href="https://app.daily.dev/GIRARDgh" target="_blank">
 <img width="256" 
