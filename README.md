@@ -21,7 +21,7 @@
 ## I am Ghislain Girard
 
 - Software Developer at [Devoteam](https://www.servicenow.com/fr/)
-- Certified Administrator & Developer ServiceNow
+- Certified Administrator & Developer ServiceNow®
 
 ## Languages and Tools:
 <div align="left">
