@@ -17,3 +17,12 @@
   />
 </a>
 </div>
+
+## I am Ole-Martin Bratteng
+
+- Software Engineer 
+- Certified Administrator & Developer ServiceNow
+
+![Metrics](https://raw.githubusercontent.com/GirardGH/GirardGH/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/GirardGH/GirardGH/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/GirardGH/GirardGH/github-metrics/achievements.svg)
