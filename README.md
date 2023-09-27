@@ -36,13 +36,17 @@
 
 <img src="https://raw.githubusercontent.com/GirardGH/GirardAssets/6cbe280dd71539e8d47a9dfc47d161348c968db6/assets/logoCFC.svg" alt="logo CFC" with= "100" height="100" align="center"/>
 
-<h1></h1>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirardGh&theme=nightowl&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirardGh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/GIRARDgh"><img src="https://api.daily.dev/devcards/b490c351fd7b4d5fa4436b11bd9a1d57.png?r=p6r" width="400" align="right alt="Ghislain Girard's Dev Card"/></a>
+
 <h1></h1>
 
-<a href="https://app.daily.dev/GIRARDgh"><img src="https://api.daily.dev/devcards/b490c351fd7b4d5fa4436b11bd9a1d57.png?r=p6r" width="400" alt="Ghislain Girard's Dev Card"/></a>
+
+
+<h1></h1>
+
+
 
